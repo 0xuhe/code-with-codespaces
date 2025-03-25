@@ -14,5 +14,6 @@
                 "codespace.md"
             ]
         }
-    }
+    },
+    "postCreateCommand": "echo '# Codespace for skills' > codespace.md"
 }
